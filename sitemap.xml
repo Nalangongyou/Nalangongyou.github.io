@@ -293,14 +293,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/html5/</loc>
+    <loc>http://example.com/categories/CSS3/</loc>
     <lastmod>2020-10-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/CSS3/</loc>
+    <loc>http://example.com/categories/html5/</loc>
     <lastmod>2020-10-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -321,14 +321,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/HTML/</loc>
+    <loc>http://example.com/categories/jQuery/</loc>
     <lastmod>2020-10-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/jQuery/</loc>
+    <loc>http://example.com/categories/HTML/</loc>
     <lastmod>2020-10-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
